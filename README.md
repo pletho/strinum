@@ -1,5 +1,4 @@
-# StrInStrUm
-스트린스트럼(Strinum의 확장) 의 초기 선언문
+# 스트리넘(Strinum의 확장) 의 초기 선언문
 
 (일부 )
 
